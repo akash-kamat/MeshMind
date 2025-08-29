@@ -1,0 +1,22 @@
+[project]
+name = "docquery-backend"
+version = "0.1.0"
+description = "Backend for document Q&A system using LlamaIndex and Gemini"
+requires-python = ">=3.11"
+
+dependencies = [
+    "fastapi>=0.104.0",
+    "uvicorn>=0.24.0",
+    "llama-index>=0.10.0",
+    "llama-index-embeddings-gemini>=0.1.0",
+    "llama-index-llms-gemini>=0.1.0",
+    "llama-index-vector-stores-supabase>=0.1.0",
+    "llama-index-readers-file>=0.1.0",
+    "llama-index-readers-web>=0.1.0",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+    "supabase>=1.0.0",
+    "youtube-transcript-api>=0.6.0",
+    "python-multipart>=0.0.6",
+    "docx2txt>=0.9",
+]
