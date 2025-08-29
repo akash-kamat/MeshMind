@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/LangChain-0.1.9-teal" alt="LangChain">
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/placeholder/mind-mesh-logo.png" alt="Mind Mesh Logo" width="250">
-</p>
 
 ## 🚀 Overview
 
@@ -409,3 +406,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <p align="center">
   Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
 </p>
+
